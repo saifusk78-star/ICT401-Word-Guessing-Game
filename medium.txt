@@ -1,0 +1,10 @@
+JOURNEY|An act of travelling from one place to another
+LIBRARY|A place where people can borrow books
+VOLCANO|A mountain that can release lava
+COMPASS|A tool that helps people find direction
+VILLAGE|A small community in the countryside
+THUNDER|A loud sound heard during a storm
+DIAMOND|A valuable and very hard gemstone
+BICYCLE|A vehicle with two wheels and pedals
+HOSPITAL|A place where sick people receive treatment
+CALENDAR|It displays the days and months of a year

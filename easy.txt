@@ -1,0 +1,10 @@
+APPLE|A common fruit that can be red or green
+HOUSE|A building where people live
+WATER|A drink that has no colour
+CHAIR|You sit on this piece of furniture
+BREAD|A baked food commonly used for sandwiches
+PHONE|A device used to call or message people
+BEACH|A sandy place beside the sea
+CLOCK|An object that shows the time
+TRAIN|A vehicle that travels on railway tracks
+MOUSE|A small animal or a computer input device

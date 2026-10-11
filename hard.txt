@@ -1,0 +1,10 @@
+ALGORITHM|A set of ordered steps used to solve a problem
+ARCHITECTURE|The design and structure of a building or system
+BIODIVERSITY|The variety of living organisms in an environment
+CYBERSECURITY|The protection of computers and digital information
+ENTREPRENEUR|A person who starts and manages a business
+PHOTOSYNTHESIS|The process plants use to produce food from sunlight
+QUARANTINE|A period of separation used to prevent disease spreading
+SUSTAINABILITY|Using resources without harming future generations
+TELECOMMUNICATION|Sending information electronically over a distance
+METEOROLOGY|The scientific study of weather and the atmosphere
